@@ -1,7 +1,6 @@
 # bm25-cisi
 
-# O que tem nesse repo?
-Implementação de um sistema de busca utilizando BM25, usando o dataset [CISI collection](https://ir.dcs.gla.ac.uk/resources/test_collections/cisi/).
+Este repositório contém a implementação de um sistema de busca utilizando BM25, usando o dataset [CISI collection](https://ir.dcs.gla.ac.uk/resources/test_collections/cisi/).
 
 # Arquivos
 ```bash
